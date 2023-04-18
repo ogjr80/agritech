@@ -1,11 +1,3 @@
-# This is the model documentation for the agritech Solutions backend 
-# Author - Gideon Ogongo
-# Created Date - 2023/04/18 03:16 am. 
-# this documentation serves as the first documentation for the agritech solution create at the Research and Development Center. 
-# This entire backend is open source and can be used by anyone only with a written concent from the Author (Gideon Ogongo)
-
-# lets help farmers become more productive and manage waste in a smart way. 
-
 Below is a comprehensive documentation for all the implemented models, including their fields and GraphQL operations.
 
 Models
